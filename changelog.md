@@ -15,3 +15,7 @@
 - Fix AI Not Working
 - Check your internal storage on
 - /Android/game_perf.txt to add more games
+
+
+6 July 2023 :
+- Fix AI False Detection
